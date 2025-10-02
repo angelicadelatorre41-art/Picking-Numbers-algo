@@ -1,1 +1,1 @@
-# Picking-Numbers-algo
+# Picking-Numbers-algo This program finds the longest subarray where the absolute difference between any two numbers is at most 1. It counts the frequency of each number, then checks each pair of neighboring values to determine the maximum possible subarray length.
